@@ -1,0 +1,76 @@
+navbar:
+  blog_title: "Toss_3's Official"
+  # blog_subtitle: "记录生活，分享技术"
+  # home: "首页"
+custom_js:
+  - /js/live-time.js
+
+
+
+favicon: /img/avatar.png          # 浏览器标签上的小图标
+apple_touch_icon: /img/avatar.png # 苹果设备上的网站图标
+
+index:
+  slogan:
+    enable: true
+    text: |
+      Do your own research.<br>
+      <span id="live-time"></span>
+    typing: true
+
+post:
+  top_meta: true
+  bottom_meta: true
+
+scroll:
+  progress_bar: true     # 页面顶部阅读进度条
+  percent: true          # 右下角显示百分比
+  back_to_top: true      # ←← 回到顶部按钮
+
+
+
+
+footer:
+  enable: true
+  content: >
+    © 2025 · <a href="https://github.com/Captain-Rhino" target="_blank">Toss_3</a> · Powered by 
+    <a href="https://hexo.io" target="_blank">Hexo</a> &amp; 
+    <a href="https://github.com/fluid-dev/hexo-theme-fluid" target="_blank">Fluid</a>.
+    <br>
+    <strong>命运所有的馈赠，早已暗中标好了价格...</strong>
+# about: "关于我"
+  # links: "友情链接"
+  # archive: "归档"
+  # category: "分类"
+  # tag: "标签"
+  # search: "搜索"
+  # lang: "语言"
+  # dark_mode: "夜间模式"
+  # light_mode: "日间模式"
+  # system_mode: "系统模式"
+  # contact: "联系我"
+  # back_to_top: "回到顶部"
+  # scroll_down: "向下滚动"
+  # menu: "菜单"
+  # close: "关闭"
+  # read_more: "阅读全文"
+  # all_posts: "查看所有文章"
+  # no_posts: "暂无文章"
+  # post_comments: "评论"
+  # leave_a_comment: "留下评论"
+  # comment_placeholder: "写下你的评论..."
+  # submit: "提交"
+  # cancel: "取消"
+  # reply: "回复"
+  # share: "分享"
+  # share_on: "分享到"
+  # copy_link: "复制链接"
+  # link_copied: "链接已复制"
+  # toc: "目录"
+  # prev_post: "上一篇"
+  # next_post: "下一篇"
+  # updated: "最后更新于 %s"
+  # meta:
+  #   wordcount: "%s 字"
+  #   min2read: "%s 分钟阅读"
+  #   views: "%s 次浏览"
